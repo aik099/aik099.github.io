@@ -245,3 +245,17 @@ a {
 .cf {
   zoom:1;
 }
+
+/* Custom */
+
+.contact-icon {
+	font-size: 60px;
+	display: block;
+	margin: 10px;
+	text-align: center;
+}
+
+.contact-icon a {
+    color: #b5e853;
+    font-weight: 100;
+}
